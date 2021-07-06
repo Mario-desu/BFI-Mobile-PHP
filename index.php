@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="header-left">
                     <div class="header-logo">
-                        <a href="http://localhost/testprojekt/"><img src="bilder/fairmobil_logo_weiss.png" alt="Logo"></a>
+                        <a href="index.php"><img src="bilder/fairmobil_logo_weiss.png" alt="Logo"></a>
                     </div>
                     </div>
                 
@@ -26,7 +26,7 @@
             <div class="container">
                 <h1>FairMobil AUSTRIA</h1>
                 <h1>BESTES NETZ, BESTE PREISE!</h1>
-                <p>Ihr transparenter Mobilfunkanbieter - ohne versteckte Kosten! Ohne Überaschungen!</p>
+                <p>Ihr transparenter Mobilfunkanbieter - ohne versteckte Kosten! Ohne Überraschungen!</p>
               <div class="btn-wrapper">
                 <h2>Unsere Angebote</h2>  
                 
@@ -53,7 +53,7 @@
                
         
         <div class="subscribe-wrapper">
-            <div class="container">
+            <div class="container subscribe-hide">
                 <div class="heading">
                     <h2>Willst du am aktuellen Stand bleiben?</h2>
                     <h3>Abonniere unseren Newsletter!</h3>

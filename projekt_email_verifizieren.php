@@ -23,7 +23,7 @@ if (   isset(  $_GET["token"]  ) ){
         header("location:projekt_login.php");
 }
 
-//http://localhost/testprojekt/projekt_email_verifizieren.php?token=785aa4bfd0cbe4dab10f9fb4bf60941a
+//index.phpprojekt_email_verifizieren.php?token=785aa4bfd0cbe4dab10f9fb4bf60941a
 //nach test/aus Mail rauskopieren
 
 //einloggen

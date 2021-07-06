@@ -26,7 +26,7 @@ require_once("include/include_db.php");
             <div class="container-fluid">
                 <div class="header-left">
                     <div class="header-logo">
-                        <a href="http://localhost/testprojekt/"><img src="bilder/fairmobil_logo_weiss.png" alt="Logo"></a>
+                        <a href="index.php"><img src="bilder/fairmobil_logo_weiss.png" alt="Logo"></a>
                     </div>
                     </div>
                 <div class="header-right">
